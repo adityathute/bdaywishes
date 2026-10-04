@@ -1,14 +1,20 @@
-# bdaywishes V3
+# bdaywishes V4
 
-Animated birthday surprise for Didi.
+A simple interactive birthday surprise for Didi.
 
-- Birthday: 4 October 1991
-- Personalized family messages
-- Animated stars, glow and falling petals
-- Interactive surprise gifts
-- Responsive mobile-first design
-- Reduced-motion support
+### V4
+- Blank/secret opening screen
+- Animated gift that opens the surprise
+- Birthday artwork reveal
+- Sparkle and falling-petal animations
+- Interactive birthday message
+- Celebrate button
+- Close button returns to the opening screen
+- Mobile-first responsive layout
+- No age or birth year shown
 
-The V3 preview package contains the generated birthday artwork at assets/didi-birthday.jpg.
+The V4 page expects the artwork at:
+
+assets/didi-birthday.jpg
 
 GitHub Pages deployment uses the existing workflow on the Master branch.

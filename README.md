@@ -1,8 +1,8 @@
-# bdaywishes V5
+# bdaywishes V6
 
 A simple interactive birthday surprise for Didi.
 
-### V5
+### V6
 - Secret opening screen
 - Animated gift interaction
 - Birthday artwork reveal
@@ -13,6 +13,8 @@ A simple interactive birthday surprise for Didi.
 - Close button returns to the opening screen
 - Mobile-first responsive layout
 - No age or birth year shown
+- Real visit counter in the footer
+- Minimal footer: Made with love ❤️ • visits
 
 ## Required image
 

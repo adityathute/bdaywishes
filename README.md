@@ -1,14 +1,14 @@
-# bdaywishes
+# bdaywishes V3
 
-A simple birthday surprise website.
+Animated birthday surprise for Didi.
 
-## Deploy with GitHub Pages
+- Birthday: 4 October 1991
+- Personalized family messages
+- Animated stars, glow and falling petals
+- Interactive surprise gifts
+- Responsive mobile-first design
+- Reduced-motion support
 
-1. Open the repository **Settings**.
-2. Open **Pages**.
-3. Under **Build and deployment**, select **GitHub Actions**.
-4. The site will deploy automatically from the `Master` branch.
+The V3 preview package contains the generated birthday artwork at assets/didi-birthday.jpg.
 
-## Customize
-
-Edit `index.html` to change the birthday message, text, colors, or animations.
+GitHub Pages deployment uses the existing workflow on the Master branch.
